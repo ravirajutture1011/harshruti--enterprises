@@ -9,7 +9,7 @@ const Page = () => {
     id: "1",
     title: "Solid Carbide Step Drill",
     paragraph_text : "High-precision step drilling in one pass. Built from premium carbide for durability & accuracy.",
-    src: "/images/Drills/solid-carbide-step-drill1.png",
+    src: "/images/Drills/Solid-Carbide-Step-Drill1.png",
   },
   {
     id: "2",
