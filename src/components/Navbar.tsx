@@ -111,7 +111,7 @@ const Navbar = () => {
               <summary className="cursor-pointer text-sm font-medium hover:text-black">
                 Products
               </summary>
-              <ul className="pl-4 mt-2 space-y-1 text-sm text-gray-700">
+              <ul className="pl-4 mt-2 space-y-1 text-sm dark:text-white">
                 <li>
                   <Link
                     href="/products/drills"
