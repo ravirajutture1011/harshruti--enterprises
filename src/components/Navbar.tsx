@@ -9,15 +9,13 @@ import ToggleButton from "./ToggleButton";
 // "use client"
 import * as React from "react";
 // import Link from "next/link"
-import { CircleCheckIcon, CircleHelpIcon, CircleIcon } from "lucide-react";
+// import { CircleCheckIcon, CircleHelpIcon, CircleIcon } from "lucide-react";
 import {
   NavigationMenu,
   NavigationMenuContent,
   NavigationMenuItem,
   NavigationMenuLink,
-  NavigationMenuList,
-  NavigationMenuTrigger,
-  navigationMenuTriggerStyle,
+  NavigationMenuTrigger, 
 } from "@/components/ui/navigation-menu";
 import { useState } from "react";
 
@@ -161,7 +159,7 @@ const Navbar = () => {
               Contact
             </Link>
 
-   git config --global user.name       </SheetContent>
+          </SheetContent>
         </Sheet>
       </div>
     </nav>

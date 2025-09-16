@@ -21,7 +21,7 @@ const AboutUS = () => {
           general machinery processing.
         </p>
         <p className="font-semibold italic">
-          "Precision tools for growing ambitions." As a startup, Hatshruthi
+          Precision tools for growing ambitions. As a startup, Hatshruthi
           Enterprises is committed to delivering innovative, high-performance
           tools that help our clients achieve outstanding results.
         </p>

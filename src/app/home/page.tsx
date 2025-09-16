@@ -7,7 +7,6 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import ProductGrid from "@/components/ProductCard";
 
 const Home = () => {
   return (
